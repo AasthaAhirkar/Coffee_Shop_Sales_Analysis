@@ -29,7 +29,7 @@ The main objective of this project is to analyze retail sales data to gain actio
 
 *Dashboard Screenshot*
 
-![Dashboard Preview](https://github.com/AasthaAhirkar/Coffee_Shop_Sales_Analysis/blob/main/Dashboard_SS.png)
+![Dashboard Preview](https://github.com/AasthaAhirkar/Coffee_Shop_Sales_Analysis/blob/main/Dashboard.png)
 
 
 ---
